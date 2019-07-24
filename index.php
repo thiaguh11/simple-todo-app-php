@@ -13,8 +13,8 @@
         <h1>TODO APP WITH PHP</h1>
         <form class="w-100 mt-4" action="addtask.php" method="post">
             <div class="input-group">
-                <input name="description" class="form-control" type="text" placeholder="Informe qual tarefa irá realizar">
-                <button type="submit" class="btn btn-primary ml-2">Adicionar tarefa</button>
+                <input name="description" class="form-control" type="text" placeholder="Add description for your task">
+                <button type="submit" class="btn btn-primary ml-2">Add task</button>
             </div>
         </form>
         <table class="table table-dark mt-4">
